@@ -6,4 +6,4 @@ updates:
       interval: "daily"
     allow:
       - dependency-name: "phonelib"
-    versioning-strategy: update
+    versioning-strategy: auto
