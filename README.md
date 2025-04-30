@@ -1,0 +1,1 @@
+This repository demonstrates the use of Dependabot for automating dependency updates. The phonelib dependency is monitored and automatically updated by Dependabot to ensure the project is using the latest and most secure version of the library.
